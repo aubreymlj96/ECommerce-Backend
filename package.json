@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.3",
+    "sequelize": "^6.35.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node ./seeds/index.js"
+  },
+  "name": "ecommerce-backend",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aubreymlj96/ECommerce-Backend.git"
+  },
+  "author": "aubreymlj96",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aubreymlj96/ECommerce-Backend/issues"
+  },
+  "homepage": "https://github.com/aubreymlj96/ECommerce-Backend#readme"
+}
