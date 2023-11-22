@@ -89,7 +89,9 @@ The routes files contribute the following:
 
 ## Usage
 
-Please click the following link to view a step by step tutorial of the ecommerce backend database/command-line application.
+To jumpstart the application and setting up the code, you need to create the db in mysql (mysql -u root -p // source ./db/schema.sql). After that, the next step is to exit mysql and run the seeds in the commandline (npm run seed). And finally, to start the application, you need to enter npm start in the commandline and continue to Insomnia.
+
+Please click the following link to view a step by step tutorial of the ecommerce backend database/command-line application in Insomnia.
 
 [Demo](https://drive.google.com/file/d/1QI4LaDH0VDQ761pQ_PSg1PlZWuDfzvcX/view)
 
