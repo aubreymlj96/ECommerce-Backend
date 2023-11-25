@@ -91,7 +91,7 @@ To jumpstart the application and setting up the code, you need to create the db 
 
 Please click the following link to view a step by step tutorial of the ecommerce backend database/command-line application in Insomnia.
 
-[Demo](https://drive.google.com/file/d/1QI4LaDH0VDQ761pQ_PSg1PlZWuDfzvcX/view)
+[Demo](https://drive.google.com/file/d/1xkZSGTxRb6YSjCuhsRRYUtkyOY-IOVh6/view)
 
 ## Credits
 
